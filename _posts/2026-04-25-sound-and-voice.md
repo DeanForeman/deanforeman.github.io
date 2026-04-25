@@ -1,3 +1,7 @@
+---
+Sound and Voice
+---
+
 I have a Discord server that I share with my two best friends from high school, and one of them sent a message to the ‘shower-thoughts’ channel (yes) saying, “I’ve always clocked that you know and have known actor names even from a very young age. Do you remember how you learned their names? I always remember the characters over the actors.”
 
 I remember watching movies with my dad and my grandpa. Conflict flowed easily between the two of them, but they always waved a quiet flag of truce when it came to movies. They had their preferences, mind you—my dad loved sci fi space operas, and my grandpa preferred historical slow burns—but they would often cede to one another’s tastes. They catalogued their viewings with a ritualistic barking, treated as sacred as the digital sound itself. 
@@ -34,9 +38,4 @@ Looking back, I can’t pinpoint the moment I started caring about actors, or wh
 
 Maybe that’s the thread that runs through it all: the sense that stories aren’t just seen but heard, and that somewhere in the overlap—between the voices on the screen and the ones in the room—I learned to listen closely enough that the actors never stayed anonymous for long.
 
-
-
-
-
-
-
+— Dean Diego
