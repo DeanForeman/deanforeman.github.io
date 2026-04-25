@@ -1,5 +1,5 @@
 ---
-title: "First Entry"
+First Entry
 ---
 
 Text goes here.
