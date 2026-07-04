@@ -2,6 +2,9 @@
 Independence
 ---
 
+_“History had a slow pulse; humans calculated in years while it calculated in generations. Perhaps this was the beginning of the beginning.”
+Arthur Koestler, **Darkness at Noon**, 1940_
+
 
 In April, I started a creative writing project, a blog, if you will. The choice was the synthesis of millions upon millions of stimuli over the course of my life, though, most immediately, it was inspired by my reading of Mary Roach’s _Stiff_, Lindy West’s _The Witches are Coming_, Michelle Alexander’s _The New Jim Crow_, and a revisit to _Fahrenheit 451_ by Ray Bradbury. I was restless.
 
@@ -21,7 +24,5 @@ Our ancestors marked their trails, noting where they fell and where their paths 
 
 --Dean Diego
 
-_“History had a slow pulse; humans calculated in years while it calculated in generations. Perhaps this was the beginning of the beginning.”
-Arthur Koestler, **Darkness at Noon**, 1940_
 
 
