@@ -19,7 +19,7 @@ We’re walking the path of equanimity presently—the passage of the 14th Amend
 
 Our ancestors marked their trails, noting where they fell and where their paths ended, and their efforts attest to the great power human love and endurance have in shaping the world, the potential _we_ have to make it a safer planet for our neighbors and peers. It is possible.
 
-- Dean Diego
+--Dean Diego
 
 _“History had a slow pulse; humans calculated in years while it calculated in generations. Perhaps this was the beginning of the beginning.”
 Arthur Koestler, **Darkness at Noon**, 1940_
